@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-![J4IMY's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4IMY&show_icons=true&theme=radical)
+![J4IMY's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4IMY&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=J4IMY&theme=solarized-dark&hide_border=false)<br/>
 
 
